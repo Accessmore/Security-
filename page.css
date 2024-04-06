@@ -1,0 +1,42 @@
+body{
+  height: 1300px;
+  width: 380px auto;
+  background-color: lightgrey;
+}
+p{
+  text-align: center;
+  
+}
+
+.heading{
+  text-align: center;
+  border: 5px solid orange;
+}
+
+h5{
+  text-align: center;
+  color: white;
+}
+
+.footer{
+  position: relative;
+  border: 5px solid orange;
+  background-color: black;
+  color: white;
+  bottom: 0;
+}
+
+button{
+  text-align: center;
+  background-color:orange;
+  width: 300px;
+  height: 55px;
+  border-radius: 8px;
+ color: white;
+ font-size: 15px;
+ font-weight: bold;
+}
+
+.button{
+  text-align: center;
+}
